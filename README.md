@@ -8,10 +8,10 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
 
 💻 Compétences
 
-     C#
+     C# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
      ASP.NET Core
      Entity Framework
-     HTML
+     HTML 
      CSS
      JavaScript
      PL/SQL
@@ -26,14 +26,14 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
 
     Collège De Rosemont | 2022-2023
         AEC - Programmation Orientée Objet et Technologies Web
-    Udemy | 2023-2023
+        
+    Udemy | 2022-2023
         Certificat - ASP.NET Core MVC, Entity Framework Core et ASP.NET Core
+        Certificat Responsive Web Design Essentials - HTML5 CSS3 Bootstrap
 
 🔨 Expérience
 
     Projet personnel : Site web e-commerce Asp.net Core
         Utilisation d'ASP.NET, Entity Framework, Entity Identity et C#
-        Conception et implémentation d'un site web e-commerce de vente de livres en ligne
+        Conception et implémentation d'un site web e-commerce de vente en ligne
         Création de la base de données et mise en place de la fonctionnalité de paiement
-
-    Projet en groupe : Site web
