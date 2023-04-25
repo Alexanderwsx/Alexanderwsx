@@ -10,11 +10,9 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />C#
-</p>
-<p>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="40" height="40" /><br>ASP.NET Core
-</p>
-<p>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="Entity Framework" width="40" height="40" /><br>Entity Framework
 </p>
 <p>
