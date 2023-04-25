@@ -35,6 +35,12 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /><br>PHP
 </p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" /><br>GitHub
+</p>
+<p>
+  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="Test unitaire JUnit" width="40" height="40" /><br>Test unitaire JUnit
+</p>
 
 
      
