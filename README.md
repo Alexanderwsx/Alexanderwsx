@@ -18,6 +18,11 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="Test unitaire JUnit" width="40" height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="Entity Framework" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40" />
+
 </p>
 
 
@@ -54,7 +59,7 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
      clients
      
      
-   Site web Restaurant Asp.net Core / Interface responsive (Site https://alexrestaurant.azurewebsites.net/  -  https://github.com/Alexanderwsx/ECommerce)
+   Site web Restaurant Asp.net Core / Interface responsive (Site https://alexrestaurant.azurewebsites.net/  -  Github https://github.com/Alexanderwsx/ECommerce)
      
      Utilisation d'ASP.NET, Entity Framework, C#, Bootstrap 5
      
