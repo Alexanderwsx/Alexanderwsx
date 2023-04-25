@@ -31,10 +31,10 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
 
 🎓 Éducation
 
-    Collège De Rosemont | 2022-2023
+    Collège De Rosemont | 2023
         AEC - Programmation Orientée Objet et Technologies Web
         
-    Udemy | 2022-2023
+    Udemy | 2023
         Certificat - ASP.NET Core MVC, Entity Framework Core et ASP.NET Core
         Certificat - Responsive Web Design Essentials - HTML5 CSS3 Bootstrap
 
