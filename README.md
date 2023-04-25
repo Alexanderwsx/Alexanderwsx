@@ -5,7 +5,6 @@ Roberto Alexander Auvera | Développeur/Programmeur
 
 👤 Profil
 Développeur ponctuel, responsable et débrouillard capable de travailler efficacement en équipe. Toujours ouvert aux critiques constructives pour s'améliorer et capable de s'adapter rapidement aux changements dans un environnement de travail dynamique. Passionné par le travail et toujours prêt à relever de nouveaux défis pour contribuer à la réussite de l'équipe et de l'entreprise.
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
 💻 Compétences
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /> C#<br>
