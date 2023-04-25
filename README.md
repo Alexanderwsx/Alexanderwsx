@@ -21,13 +21,12 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="Test unitaire JUnit" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40" />
- 
 </p>
 
 
      
 🗣️ Langues : Français - Espagnol
-
+</br>
 🎓 Éducation
 
     Collège De Rosemont | 2022-2023
