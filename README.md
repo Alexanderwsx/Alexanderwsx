@@ -40,8 +40,7 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
 
 🔨 Expérience
 
-   PROJET PERSONNEL
-    Site web e-commerce Asp.net Core (Site https://alexstore.azurewebsites.net/  -  Github https://github.com/Alexanderwsx/Alex_Restaurant)
+   PROJET PERSONNEL - Site web e-commerce Asp.net Core (Site https://alexstore.azurewebsites.net/  -  Github https://github.com/Alexanderwsx/Alex_Restaurant)
     
      Utilisation d'ASP.NET, Entity Framework, Entity Identity et C#
      pour développer un site web e-commerce de vente en ligne
@@ -59,7 +58,7 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
      clients
      
      
-   Site web Restaurant Asp.net Core / Interface responsive (Site https://alexrestaurant.azurewebsites.net/  -  Github https://github.com/Alexanderwsx/ECommerce)
+   PROJET PERSONNEL - Site web Restaurant Asp.net Core / Interface responsive (Site https://alexrestaurant.azurewebsites.net/  -  Github https://github.com/Alexanderwsx/ECommerce)
      
      Utilisation d'ASP.NET, Entity Framework, C#, Bootstrap 5
      
