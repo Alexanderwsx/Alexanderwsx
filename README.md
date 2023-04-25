@@ -26,7 +26,9 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
 
      
 🗣️ Langues : Français - Espagnol
-</br>
+
+
+
 🎓 Éducation
 
     Collège De Rosemont | 2022-2023
