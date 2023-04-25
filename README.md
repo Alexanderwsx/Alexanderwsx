@@ -35,12 +35,6 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /><br>PHP
 </p>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" /><br>GitHub
-</p>
-<p>
-  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="Test unitaire JUnit" width="40" height="40" /><br>Test unitaire JUnit
-</p>
 
 
      
@@ -56,7 +50,8 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
         Certificat - Responsive Web Design Essentials - HTML5 CSS3 Bootstrap
 
 🔨 Expérience
-    PROJET PERSONNEL
+
+   PROJET PERSONNEL
     Site web e-commerce Asp.net Core (LINK https://alexstore.azurewebsites.net/)
     
      Utilisation d'ASP.NET, Entity Framework, Entity Identity et C#
@@ -74,6 +69,7 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
      Création d'un site web professionnel et facile à utiliser pour les
      clients
      
+     
    Site web Restaurant Asp.net Core / Interface responsive (LINK https://alexrestaurant.azurewebsites.net/)
      
      Utilisation d'ASP.NET, Entity Framework, C#, Bootstrap 5
@@ -89,6 +85,7 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
      
      Création d'un site web professionnel et facile à utiliser pour les
      clients
+     
      
    PROJET EN GROUPE
    Site web e-commerce PHP
