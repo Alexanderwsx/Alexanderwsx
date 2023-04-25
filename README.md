@@ -4,11 +4,11 @@ Roberto Alexander Auvera | Développeur/Programmeur
 🔗 LinkedIn https://www.linkedin.com/in/roberto-au-628369183/
 
 👤 Profil
-Développeur ponctuel, responsable et débrouillard capable de travailler efficacement en équipe. Toujours ouvert aux critiques constructives pour s'améliorer et capable de s'adapter rapidement aux changements dans un environnement de travail dynamique. Passionné par le travail et toujours prêt à relever de nouveaux défis pour contribuer à la réussite de l'équipe et de l'entreprise.
+Développeur ponctuel, responsable et débrouillard capable de travailler efficacement en équipe. Toujours ouvert aux critiques constructives pour s'améliorer et capable de s'adapter rapidement aux changements dans un environnement de travail dynamique. Passionné par le travail et toujours prêt à relever de nouveaux défis pour contribuer à la réussite de l'équipe et de l'entreprise
 
 💻 Compétences
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /> C#<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /> C#
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="40" height="40" /> ASP.NET Core<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="Entity Framework" width="40" height="40" /> Entity Framework<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" /> HTML<br>
