@@ -1,7 +1,7 @@
 Roberto Alexander Auvera | Développeur/Programmeur
 
-📧 Roberto.au.vera@gmail.com
-🌍 Montréal, QC (Ouvert au télétravail)
+📧 Roberto.au.vera@gmail.com </br>
+🌍 Montréal, QC (Ouvert au télétravail) </br>
 🔗 LinkedIn https://www.linkedin.com/in/roberto-au-628369183/
 
 👤 Profil
