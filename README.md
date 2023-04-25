@@ -1,14 +1,14 @@
 Roberto Alexander Auvera | Développeur/Programmeur
 
 📧 Roberto.au.vera@gmail.com | 🌍 Montréal, QC (Ouvert au télétravail)
-🔗 LinkedIn
+🔗 LinkedIn https://www.linkedin.com/in/roberto-au-628369183/
 
 👤 Profil
 Développeur ponctuel, responsable et débrouillard capable de travailler efficacement en équipe. Toujours ouvert aux critiques constructives pour s'améliorer et capable de s'adapter rapidement aux changements dans un environnement de travail dynamique. Passionné par le travail et toujours prêt à relever de nouveaux défis pour contribuer à la réussite de l'équipe et de l'entreprise.
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
 💻 Compétences
 
-     C# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+     C# 
      ASP.NET Core
      Entity Framework
      HTML 
