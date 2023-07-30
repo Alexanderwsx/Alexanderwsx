@@ -9,9 +9,13 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
 
 Projets:
 Certains sites web sont hébergés sur un plan gratuit, veuillez donc être patient en raison du temps de chargement.
+
 E-Commerce: https://alexstore.azurewebsites.net/
+
 Restaurant-Menu: https://alexrestaurant.azurewebsites.net/
+
 Site Web Static: MonGym.ca
+
 E-Commerce Shopify: https://059015-2.myshopify.com/
 
 💻 Compétences
