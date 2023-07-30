@@ -12,7 +12,7 @@ Certains sites web sont hébergés sur un plan gratuit, veuillez donc être pati
 
 E-Commerce: https://alexstore.azurewebsites.net/</br>
 Restaurant-Menu: https://alexrestaurant.azurewebsites.net/</br>
-Site Web Static: MonGym.ca</br>
+Site Web Static: www.MonGym.ca</br>
 E-Commerce Shopify: https://059015-2.myshopify.com/</br>
 
 💻 Compétences
