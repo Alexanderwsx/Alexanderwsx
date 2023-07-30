@@ -7,6 +7,13 @@ Roberto Alexander Au Vera | Développeur/Programmeur
 👤 Profil
 Développeur ponctuel, responsable et débrouillard capable de travailler efficacement en équipe. Toujours ouvert aux critiques constructives pour s'améliorer et capable de s'adapter rapidement aux changements dans un environnement de travail dynamique. Passionné par le travail et toujours prêt à relever de nouveaux défis pour contribuer à la réussite de l'équipe et de l'entreprise
 
+Projets:
+Certains sites web sont hébergés sur un plan gratuit, veuillez donc être patient en raison du temps de chargement.
+E-Commerce: https://alexstore.azurewebsites.net/
+Restaurant-Menu: https://alexrestaurant.azurewebsites.net/
+Site Web Static: MonGym.ca
+E-Commerce Shopify: https://059015-2.myshopify.com/
+
 💻 Compétences
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
