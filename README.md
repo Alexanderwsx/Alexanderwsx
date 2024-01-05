@@ -10,10 +10,7 @@ Développeur ponctuel, responsable et débrouillard capable de travailler effica
 Projets:</br>
 Certains sites web sont hébergés sur un plan gratuit, veuillez donc être patient en raison du temps de chargement.</br>
 
-E-Commerce: https://alexstore.azurewebsites.net/</br>
-Restaurant-Menu: https://alexrestaurant.azurewebsites.net/</br>
-Site Web Static: www.MonGym.ca</br>
-E-Commerce Shopify: https://059015-2.myshopify.com/</br>
+https://portfolio-roberto-au.azurewebsites.net/
 
 💻 Compétences
 <p>
